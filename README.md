@@ -5,7 +5,13 @@
 ![Forks](https://img.shields.io/github/forks/likhith-ts/Credit-Card-Fraud-Prediction-Using-Bi-LSTM?style=social)
 
 🚀 **A machine learning project aimed at predicting credit card fraud using Bi-LSTM and ensemble learning techniques.**
+**Paper**: [Academia](https://www.academia.edu/127145826/Conceive_and_Emperical_Approach_for_Credit_Card_Fraud_Prediction_using_Domain_Knowledge_Learning?source=swp_share)
 
+⚡ Credit Card Fraud Prediction using Bi-LSTM & Ensemble Learning
+This is my final major project at SRM University aimed at detecting credit card fraud using a Bi-Directional LSTM (Bi-LSTM) network and ensemble learning techniques. The project tackles imbalanced fraud detection with ADASYN oversampling, achieving 99.8% accuracy.
+
+
+Check out the full implementation [here](https://github.com/likhith-ts/Credit-Card-Fraud-Prediction-Using-Bi-LSTM)! 🌟
 ---
 
 ## 📌 Features
